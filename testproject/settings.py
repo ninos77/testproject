@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jlus9z-21wjzzoknm*5m5+%)rw3^^-76f3&g!lxnzu#=05i9kh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']# add ip or domain to the serever
+ALLOWED_HOSTS = ['*']# add ip or domain to the linux server
 
 
 # Application definition
